@@ -1,0 +1,19 @@
+.jumbotron{
+  margin-top: 50px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #DAE0E2;
+  color: #2C3335;
+  text-align: center;
+  height: 50px;
+  padding: 20px;
+}
+
+.card{
+    margin-top: 50px;
+}
